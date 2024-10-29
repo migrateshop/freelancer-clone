@@ -1,7 +1,6 @@
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“freelancerclone.png" src="https://github.com/migrateshop/freelancer-clone/blob/main/images/freelancer-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
-
-
 <h1 align="center"> Why Building a Freelancer Clone is Key to Future-Proofing Your Business </h1>
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“freelancerclone.png" src="https://github.com/migrateshop/freelancer-clone/blob/main/images/freelancer-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ## What is a Freelancer Clone?
 A [Freelancer clone](https://migrateshop.com/freelancer-clone/) is a pre-built platform or software that resembles the essential features of famous freelancing websites such as Freelancer.com, Upwork, and Fiverr. It offers a starting point for developing a marketplace in which employers list openings and freelancers bid on or apply to finish tasks.
